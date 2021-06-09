@@ -11,3 +11,4 @@ For helping me learn music theory for my hobby of singing, I'm building this app
 - [ ] Create Flashcard which shows Clef with Key Signature and aks you to Select what the chord name is
 - [ ] Create Flashcard which shows a Clef with Scale on it ands ask for one to place #/♭ on the barline
 - [ ] Create barlines with position as property
+- [ ] create Triads fill in the blank for each tonic triad
